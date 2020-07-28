@@ -1,2 +1,3 @@
-Part Step_02 \n
-If문
+Part Step_02
+
+if문
