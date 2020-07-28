@@ -1,7 +1,7 @@
 # Baekjun_Programming
 
 # Title : 사칙연산(calculator)
-# C:\Users\jkkim\PycharmProjects\Beckjun
+# C:\Users\Kimmingyu\PycharmProjects\BAEKJOON\step1
 # 10869.py
 # -*- coding: utf-8 -*-
 # -----------------------------------------------------------------------------------------------------------
